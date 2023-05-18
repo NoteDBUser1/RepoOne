@@ -16,6 +16,41 @@
       "message": "Looks good!",
       "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d7c7e80_d3e822cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021109
+      },
+      "writtenOn": "2023-05-18T18:37:31Z",
+      "side": 1,
+      "message": "Comment Two. Fine !",
+      "parentUuid": "867877e0_7c92e080",
+      "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2250414d_98448c17",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021109
+      },
+      "writtenOn": "2023-05-18T18:37:31Z",
+      "side": 1,
+      "message": "Kindly review code",
+      "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
