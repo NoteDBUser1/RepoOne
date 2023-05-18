@@ -51,6 +51,41 @@
       "message": "Kindly review code",
       "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "465c74ed_15da94e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021108
+      },
+      "writtenOn": "2023-05-18T18:46:24Z",
+      "side": 1,
+      "message": "Review completed. Code can be merged.\nApproved !",
+      "parentUuid": "2250414d_98448c17",
+      "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "97f49c52_e5f338c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021108
+      },
+      "writtenOn": "2023-05-18T18:46:24Z",
+      "side": 1,
+      "message": "Review completed. Code can be merged.\nApproved !",
+      "revId": "60b35f9b1f16fc0d8b2fb6500c0d02a869d32e54",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
